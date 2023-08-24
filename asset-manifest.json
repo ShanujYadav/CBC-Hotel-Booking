@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CBC-Hotel-Booking/static/css/main.8ef1d10a.css",
+    "main.js": "/CBC-Hotel-Booking/static/js/main.5b5ab844.js",
+    "index.html": "/CBC-Hotel-Booking/index.html",
+    "main.8ef1d10a.css.map": "/CBC-Hotel-Booking/static/css/main.8ef1d10a.css.map",
+    "main.5b5ab844.js.map": "/CBC-Hotel-Booking/static/js/main.5b5ab844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef1d10a.css",
+    "static/js/main.5b5ab844.js"
+  ]
+}
